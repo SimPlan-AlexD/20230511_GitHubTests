@@ -1,0 +1,16 @@
+InternalClassType: Folder
+ChangePathCtrl:
+Coordinate3D: [2,-5,0.05]
+DestructorCtrl:
+MoveToFolderCtrl:
+Name: MUs
+PermitDeleteCtrl:
+RenameCtrl:
+UUID: edf6dc1e-48a9-4ab3-a258-0739a898f020
+3D:
+ BackgroundColor: -1
+$Nodes:
+- 82fcb0f7-3c2c-43e9-a745-7f238cd3e4dd
+- d7f75645-5d7b-4c37-8fab-724c22b53ea6
+- dbc27401-e306-4a8d-b3aa-f978af344102
+- d5110d7a-3572-4d37-81a6-5fc9f36767ca
