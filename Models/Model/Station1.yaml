@@ -1,6 +1,8 @@
 InternalClassType: Station
 Coordinate3D: [5,-5,0]
+Name: Station1
 Origin: 7681b6bf-027e-4701-9ecf-b214c92786e6
+ProcTime: 30
 RandomSeed: 101
 UUID: 945db84d-4b9e-469e-aff3-e87c9de2dac0
 $Successors:
